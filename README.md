@@ -7,8 +7,8 @@ A small sign up and sign in pages program to help us learn about how Scrum metho
 ## Deliverables
 * Were learning new topics on daily basis
 * Learned how to program with Django
-* Learned how to profissionally communicate with each other
+* Learned how to professionally communicate with each other
 * Learned how solve problems as a team
-* Learned how to take decesions in terms of what language to use, what use case to work on, etc.
+* Learned how to take decisions in terms of what language to use, what use case to work on, etc.
 * We delivered what we were requiered in time
 * We mastered Scrum methodolgy concepts and values. 
