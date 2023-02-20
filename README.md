@@ -14,13 +14,13 @@ A small sign up and sign in pages program to help us learn about how Scrum metho
 * We mastered Scrum methodolgy concepts and values. 
 
 ## How to run 
-There exists two sprint in this project, one in the main directory, and the other on the Sprint-2 file.
+There exists two sprints in this project, one in the main directory, and the other one on the Sprint-2 file.
 
 To run any sprint: 
-* Open the specefied Django file.
+* Open the specefied Django file (inside Sprint-2 for sprint-2).
 * Create virtual enviroment. 
 * Run the command "Python manage.py runserver" 
-* Open the specefied Flutter file.
+* Open the specefied Flutter file inside Sprint-2 for sprint-2).
 * Run the main.dart file (pre-setup for flutter required).
 
 
