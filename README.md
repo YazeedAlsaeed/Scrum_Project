@@ -12,3 +12,15 @@ A small sign up and sign in pages program to help us learn about how Scrum metho
 * Learned how to take decisions in terms of what language to use, what use case to work on, etc.
 * We delivered what we were requiered in time
 * We mastered Scrum methodolgy concepts and values. 
+
+## How to run 
+There exists two sprint in this project, one in the main directory, and the other on the Sprint-2 file.
+
+To run any sprint: 
+* Open the specefied Django file.
+* Create virtual enviroment. 
+* Run the command "Python manage.py runserver" 
+* Open the specefied Flutter file.
+* Run the main.dart file (pre-setup for flutter required).
+
+
